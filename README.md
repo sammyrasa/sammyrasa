@@ -9,7 +9,6 @@
 
 ![sammyrasa's Stats](https://github-readme-stats.vercel.app/api?username=sammyrasa&theme=jolly&show_icons=true&hide_border=true&count_private=true)
 ![sammyrasa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sammyrasa&theme=jolly&hide_border=true)
-![sammyrasa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammyrasa&theme=jolly&show_icons=true&hide_border=true&layout=compact)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sammyrasa/sammyrasa/output/github-contribution-grid-snake-dark.svg">
